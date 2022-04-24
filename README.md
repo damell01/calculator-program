@@ -1,6 +1,6 @@
  TECHNOLOGIES USED: HTML,CSS, & JAVASCRIPT
    
-   I learned how to implement Css styling features in my work. I learned how to use Flexboxes and grids. I also was able to play around with the linear-gradient feature. I used animations on button hover to enhance the user experience. This project really helped me understand event handle and event listen.I also learned that you can rotate an element on hover.
+   I learned how to implement Css styling features in my work. I learned how to use Flexboxes and grids. I also was able to play around with the linear-gradient feature. I used animations on button hover to enhance the user experience. This project really helped me understand event handle and event listen.I also learned that you can rotate an element on hover or on click.
 
 
 SCREENSHOTS
